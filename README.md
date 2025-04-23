@@ -1,4 +1,6 @@
 # EXNO:4-DS
+## Name: SARON XAVIER A
+## Reg: 212223230197
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,16 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/0575848c-d145-40a8-9b8f-b7f6cf5b9107)
+![image](https://github.com/user-attachments/assets/f7fb9c59-23f8-4d07-9345-e8cac1484b43)
+![image](https://github.com/user-attachments/assets/3ff6fec7-cf10-4f24-9454-ff8339eb0389)
+![image](https://github.com/user-attachments/assets/6ec9dd03-deb7-4f51-be69-f43994df2814)
+![image](https://github.com/user-attachments/assets/752556f4-212c-4900-b0f9-3016d23c1e76)
+![image](https://github.com/user-attachments/assets/8d2555f7-badc-4348-a8bd-86a9d919ab6e)
+![image](https://github.com/user-attachments/assets/74a9843d-ab22-4cc4-a5b3-ec9a209741d4)
+![image](https://github.com/user-attachments/assets/f0a11c46-239b-47e2-b892-7676ff46dcfe)
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+         Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
